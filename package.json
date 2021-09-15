@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "test pour apprendre",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/PyHahiro/git_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PyHahiro/git_test/issues"
+  },
+  "homepage": "https://github.com/PyHahiro/git_test#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
